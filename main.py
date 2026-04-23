@@ -1,1 +1,1 @@
-print("Salom, GitHub!")
+print("Salom Azizbek 🚀 GitHub + PyCharm ishlayapti!")
